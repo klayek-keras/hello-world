@@ -13,6 +13,5 @@ For using a newline, leave a line between two sentences...that will work fine...
 Thank you 
 GitHub
 
-Thank you
+Thank you All
 
-All
